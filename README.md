@@ -3,4 +3,7 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emipa606&theme=github_dark&layout=compact)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
