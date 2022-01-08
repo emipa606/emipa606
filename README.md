@@ -4,6 +4,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PowerShell   26 mins         ████████████████████░░░░░   79.98 % 
+XML          6 mins          █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
 ```
 <!--END_SECTION:waka-->
