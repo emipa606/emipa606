@@ -4,6 +4,8 @@
 ## Spent times this week
 <!--START_SECTION:waka-->
 ```text
+Total: 6 hrs 32 mins
+
 C#           4 hrs 55 mins   █████████████▒░░░░░░░░░░░   53.40 % 
 Other        2 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   29.10 % 
 XML          1 hr 29 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
