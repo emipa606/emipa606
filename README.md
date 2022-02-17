@@ -4,13 +4,13 @@
 ## Spent times this week
 <!--START_SECTION:waka-->
 ```text
-Total: 4 hrs 12 mins
+Total: 3 hrs 48 mins
 
-XML          2 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.85 % 
-C#           1 hr 59 mins    ██████████▒░░░░░░░░░░░░░░   41.43 % 
-Other        34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-PowerShell   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+XML          1 hr 54 mins    ███████████▒░░░░░░░░░░░░░   45.77 % 
+C#           1 hr 43 mins    ██████████▒░░░░░░░░░░░░░░   41.19 % 
+Other        22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+PowerShell   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 <!--END_SECTION:waka-->
 
