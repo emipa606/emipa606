@@ -5,8 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-PowerShell   4 hrs 1 min     ███████████░░░░░░░░░░░░░░   44.39 %
-Other        2 hrs 59 mins   ████████▒░░░░░░░░░░░░░░░░   33.00 %
+PowerShell   4 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.88 %
+Other        3 hrs 8 mins    ████████▒░░░░░░░░░░░░░░░░   32.74 %
 ```
 
 <!--END_SECTION:waka-->
