@@ -5,9 +5,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-C#           7 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.20 %
-PowerShell   2 hrs 50 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
-Other        2 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+C#           7 hrs 34 mins   ████████████░░░░░░░░░░░░░   47.93 %
+PowerShell   2 hrs 51 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+Other        2 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
 ```
 
 <!--END_SECTION:waka-->
