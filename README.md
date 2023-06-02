@@ -6,7 +6,7 @@
 ## Spent times this week
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python       1 hr 41 mins    ███████▓░░░░░░░░░░░░░░░░░   30.17 %
 C#           1 hr 38 mins    ███████▒░░░░░░░░░░░░░░░░░   29.23 %
 XML          51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
