@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PowerShell   1 hr 48 mins    █████████▓░░░░░░░░░░░░░░░   38.51 %
-C#           1 hr 46 mins    █████████▒░░░░░░░░░░░░░░░   37.76 %
-Binary       30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Text         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-JSON         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
