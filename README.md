@@ -2,6 +2,6 @@
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mlie&theme=vision-friendly-dark)](https://wakatime.com/@Mlie)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emipa606&theme=vision-friendly-dark&show_icons=true) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emipa606&theme=vision-friendly-dark&show_icons=true)](https://git.io/streak-stats)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G55DDYD)
