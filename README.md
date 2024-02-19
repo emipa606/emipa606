@@ -1,7 +1,7 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emipa606&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emipa606&theme=vision-friendly-dark&background=000000)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emipa606&theme=github_dark&show_icons=true) 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mlie&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emipa606&theme=github_dark&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emipa606&theme=vision-friendly-dark&show_icons=true) 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G55DDYD)
