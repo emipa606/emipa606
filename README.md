@@ -7,10 +7,10 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| C#                        |       1,004 hrs 26 mins        |
+| C#                        |       1,004 hrs 32 mins        |
 | XML                       |        358 hrs 18 mins         |
 | Binary                    |         331 hrs 8 mins         |
-| PowerShell                |        217 hrs 47 mins         |
+| PowerShell                |        218 hrs 32 mins         |
 | Other                     |        151 hrs 20 mins         |
 +---------------------------+--------------------------------+
 
@@ -18,20 +18,22 @@
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Visual Studio             |       1,511 hrs 30 mins        |
+| Visual Studio             |       1,511 hrs 36 mins        |
 | Notepad++                 |        370 hrs 50 mins         |
-| VS Code                   |        269 hrs 40 mins         |
+| VS Code                   |        270 hrs 25 mins         |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |        2,152 hrs 2 mins        |
+| Windows                   |       2,152 hrs 52 mins        |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
