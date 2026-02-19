@@ -10,7 +10,7 @@
 | C#                        |       1,006 hrs 45 mins        |
 | XML                       |        358 hrs 18 mins         |
 | Binary                    |        332 hrs 33 mins         |
-| PowerShell                |        220 hrs 53 mins         |
+| PowerShell                |        220 hrs 56 mins         |
 | Other                     |        151 hrs 20 mins         |
 +---------------------------+--------------------------------+
 
@@ -20,18 +20,20 @@
 +---------------------------+--------------------------------+
 | Visual Studio             |       1,515 hrs 18 mins        |
 | Notepad++                 |        370 hrs 50 mins         |
-| VS Code                   |        273 hrs 27 mins         |
+| VS Code                   |        273 hrs 31 mins         |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |       2,159 hrs 36 mins        |
+| Windows                   |       2,159 hrs 40 mins        |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
