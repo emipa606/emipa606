@@ -20,18 +20,20 @@
 +---------------------------+--------------------------------+
 | Visual Studio             |       1,527 hrs 11 mins        |
 | Notepad++                 |        370 hrs 50 mins         |
-| VS Code                   |        319 hrs 50 mins         |
+| VS Code                   |        323 hrs 17 mins         |
 +---------------------------+--------------------------------+
 
 
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |       2,217 hrs 53 mins        |
+| Windows                   |       2,221 hrs 19 mins        |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
