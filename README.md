@@ -7,19 +7,19 @@
 +--------- All Time Stats for Programming Languages ---------+
 | Programming Languages     | Total Hours                    |
 +---------------------------+--------------------------------+
-| C#                        |       1,018 hrs 37 mins        |
-| Binary                    |        358 hrs 25 mins         |
-| XML                       |        276 hrs 54 mins         |
-| PowerShell                |        236 hrs 30 mins         |
-| Other                     |        148 hrs 58 mins         |
+| C#                        |       1,018 hrs 49 mins        |
+| Binary                    |        358 hrs 27 mins         |
+| XML                       |        276 hrs 56 mins         |
+| PowerShell                |        236 hrs 40 mins         |
+| Other                     |        149 hrs 11 mins         |
 +---------------------------+--------------------------------+
 
 
 +---------------- All Time Stats for Editors ----------------+
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
-| Visual Studio             |       1,563 hrs 12 mins        |
-| VS Code                   |         335 hrs 9 mins         |
+| Visual Studio             |       1,563 hrs 34 mins        |
+| VS Code                   |         335 hrs 4 mins         |
 | Notepad++                 |        260 hrs 10 mins         |
 | Copilot CLI               |            10 mins             |
 | Dev                       |             1 min              |
@@ -29,11 +29,14 @@
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |       2,158 hrs 44 mins        |
+| Windows                   |        2,159 hrs 2 mins        |
+| Unknown OS                |            27 mins             |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
