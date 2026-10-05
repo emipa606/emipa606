@@ -19,7 +19,7 @@
 | Editors                   | Total Hours                    |
 +---------------------------+--------------------------------+
 | Visual Studio             |       1,593 hrs 13 mins        |
-| VS Code                   |            363 hrs             |
+| VS Code                   |        363 hrs 28 mins         |
 | Notepad++                 |        260 hrs 10 mins         |
 | Copilot CLI               |            26 mins             |
 | Dev                       |             1 min              |
@@ -29,12 +29,14 @@
 +----------- All Time Stats for Operating Systems -----------+
 | Operating Systems         | Total Hours                    |
 +---------------------------+--------------------------------+
-| Windows                   |       2,216 hrs 53 mins        |
+| Windows                   |       2,217 hrs 20 mins        |
 | Unknown OS                |            27 mins             |
 +---------------------------+--------------------------------+
 ```
 
 [//]: # (end-wakatime-stats)
+
+
 
 
 
